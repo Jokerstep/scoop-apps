@@ -5412,7 +5412,7 @@ awatch.json,ScoopInstaller/Nirsoft
 imagecacheviewer_ScoopInstaller.json,ScoopInstaller/Nirsoft
 cleanafterme_ScoopInstaller.json,ScoopInstaller/Nirsoft
 networktrafficview_ScoopInstaller.json,ScoopInstaller/Nirsoft
-chromehistoryview_ScoopInstaller.json,ScoopInstaller/Nirsoft
+chromehistoryview.json,ScoopInstaller/Nirsoft
 winmailpassrec_ScoopInstaller.json,ScoopInstaller/Nirsoft
 edgecookiesview_ScoopInstaller.json,ScoopInstaller/Nirsoft
 madpassext_ScoopInstaller.json,ScoopInstaller/Nirsoft
@@ -6571,7 +6571,7 @@ cosbrowser_echoiron.json,echoiron/echo-scoop
 ditto_echoiron.json,echoiron/echo-scoop
 mouseinc_echoiron.json,echoiron/echo-scoop
 xyplorer.json,echoiron/echo-scoop
-wechat_echoiron.json,echoiron/echo-scoop
+wechat.json,echoiron/echo-scoop
 emeditor.json,echoiron/echo-scoop
 chrome.json,echoiron/echo-scoop
 ting.json,echoiron/echo-scoop
@@ -7505,7 +7505,7 @@ flycast_hermanjustnu.json,hermanjustnu/scoop-emulators
 scummvm-nightly.json,hermanjustnu/scoop-emulators
 xenia-canary_hermanjustnu.json,hermanjustnu/scoop-emulators
 cxbx-reloaded_hermanjustnu.json,hermanjustnu/scoop-emulators
-citra-canary.json,hermanjustnu/scoop-emulators
+citra-canary_hermanjustnu.json,hermanjustnu/scoop-emulators
 vice-gtk3-snapshot.json,hermanjustnu/scoop-emulators
 visualboyadvance-m-nightly_hermanjustnu.json,hermanjustnu/scoop-emulators
 fceux-qt-interim.json,hermanjustnu/scoop-emulators
@@ -7616,7 +7616,7 @@ cemu-dev_borger.json,borger/scoop-emulators
 desmume.json,borger/scoop-emulators
 snes9x_borger.json,borger/scoop-emulators
 visualboyadvance-m_borger.json,borger/scoop-emulators
-citra.json,borger/scoop-emulators
+citra_borger.json,borger/scoop-emulators
 mgba_borger.json,borger/scoop-emulators
 yuzu_borger.json,borger/scoop-emulators
 yuzu-dev.json,borger/scoop-emulators
@@ -7629,10 +7629,10 @@ flycast_borger.json,borger/scoop-emulators
 scummvm-nightly_borger.json,borger/scoop-emulators
 xenia-canary.json,borger/scoop-emulators
 cxbx-reloaded_borger.json,borger/scoop-emulators
-citra-canary.json,borger/scoop-emulators
+citra-canary_borger.json,borger/scoop-emulators
 visualboyadvance-m-nightly_borger.json,borger/scoop-emulators
 retroarch-nightly_borger.json,borger/scoop-emulators
-pcsx2-dev.json,borger/scoop-emulators
+pcsx2-dev_borger.json,borger/scoop-emulators
 vita3k_borger.json,borger/scoop-emulators
 pcsx2_borger.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
@@ -8161,7 +8161,7 @@ mimeTeX.json,dodorz/scoop
 ssr.json,dodorz/scoop
 SQLiteExpertPersonal.json,dodorz/scoop
 MPD_dodorz.json,dodorz/scoop
-WeChat.json,dodorz/scoop
+WeChat_dodorz.json,dodorz/scoop
 NeeView.json,dodorz/scoop
 NaotuMini.json,dodorz/scoop
 AdvanceCOMP.json,dodorz/scoop
