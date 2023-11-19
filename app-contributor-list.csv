@@ -7069,6 +7069,7 @@ WizFile-Portable.json,ACooper81/scoop-apps
 WindowsPrivacyDashboard-Portable.json,ACooper81/scoop-apps
 SDeleteCLI-Portable.json,ACooper81/scoop-apps
 StaticWebServer-Portable.json,ACooper81/scoop-apps
+4KVideoDownloaderPlus-Install.json,ACooper81/scoop-apps
 Authme-Portable.json,ACooper81/scoop-apps
 WindowTop-Portable.json,ACooper81/scoop-apps
 RepaclsCLI-Portable.json,ACooper81/scoop-apps
@@ -7167,6 +7168,7 @@ LoveWindowsAgain-Portable.json,ACooper81/scoop-apps
 LogiOptionsPlus-Install.json,ACooper81/scoop-apps
 FilesInspector-Portable.json,ACooper81/scoop-apps
 StreamDeck-Portable.json,ACooper81/scoop-apps
+PatchMyPCHomeUpdater-Portable.json,ACooper81/scoop-apps
 AsusDeviceDiscovery-ManualInstall.json,ACooper81/scoop-apps
 LogitechSetPoint-Install.json,ACooper81/scoop-apps
 OracleJRE8-Portable.json,ACooper81/scoop-apps
@@ -7189,6 +7191,7 @@ CTTWindowsUtility-Script.json,ACooper81/scoop-apps
 Chocolatey-Portable.json,ACooper81/scoop-apps
 EpicGamesLauncher-Portable.json,ACooper81/scoop-apps
 Wireshark-Portable.json,ACooper81/scoop-apps
+MicrosoftVisualCppRedist-Install.json,ACooper81/scoop-apps
 Discord-Portable.json,ACooper81/scoop-apps
 PueueCLI-Portable.json,ACooper81/scoop-apps
 OperaBeta-Portable.json,ACooper81/scoop-apps
@@ -7634,7 +7637,7 @@ cxbx-reloaded_borger.json,borger/scoop-emulators
 citra-canary.json,borger/scoop-emulators
 visualboyadvance-m-nightly_borger.json,borger/scoop-emulators
 retroarch-nightly_borger.json,borger/scoop-emulators
-pcsx2-dev_borger.json,borger/scoop-emulators
+pcsx2-dev.json,borger/scoop-emulators
 vita3k_borger.json,borger/scoop-emulators
 pcsx2_borger.json,borger/scoop-emulators
 bsnes_borger.json,borger/scoop-emulators
@@ -10950,7 +10953,7 @@ MisakaTranslator_cc713.json,cc713/ownscoop
 downkyi_cc713.json,cc713/ownscoop
 Irfanview_cc713.json,cc713/ownscoop
 python-docs-zh-cn.json,cc713/ownscoop
-x64dbg.json,cc713/ownscoop
+x64dbg_cc713.json,cc713/ownscoop
 opencomic.json,cc713/ownscoop
 bililive-go_cc713.json,cc713/ownscoop
 picacg-qt.json,cc713/ownscoop
@@ -11749,6 +11752,7 @@ grpc-client-cli.json,aliesbelik/poldi
 whris.json,aliesbelik/poldi
 fortio.json,aliesbelik/poldi
 blast.json,aliesbelik/poldi
+kcli.json,aliesbelik/poldi
 flog.json,aliesbelik/poldi
 tcping-go_aliesbelik.json,aliesbelik/poldi
 werf_aliesbelik.json,aliesbelik/poldi
@@ -12532,7 +12536,7 @@ lstags.json,MCOfficer/scoop-bucket
 reg_MCOfficer.json,MCOfficer/scoop-bucket
 blast_MCOfficer.json,MCOfficer/scoop-bucket
 windows95_MCOfficer.json,MCOfficer/scoop-bucket
-kcli.json,MCOfficer/scoop-bucket
+kcli_MCOfficer.json,MCOfficer/scoop-bucket
 q_MCOfficer.json,MCOfficer/scoop-bucket
 flog_MCOfficer.json,MCOfficer/scoop-bucket
 trojan_MCOfficer.json,MCOfficer/scoop-bucket
